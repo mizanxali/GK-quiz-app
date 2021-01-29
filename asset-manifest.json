@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GK-quiz-app/static/css/main.e5282757.chunk.css",
+    "main.js": "/GK-quiz-app/static/js/main.1b78580f.chunk.js",
+    "main.js.map": "/GK-quiz-app/static/js/main.1b78580f.chunk.js.map",
+    "runtime-main.js": "/GK-quiz-app/static/js/runtime-main.09ebe377.js",
+    "runtime-main.js.map": "/GK-quiz-app/static/js/runtime-main.09ebe377.js.map",
+    "static/js/2.bfc71250.chunk.js": "/GK-quiz-app/static/js/2.bfc71250.chunk.js",
+    "static/js/2.bfc71250.chunk.js.map": "/GK-quiz-app/static/js/2.bfc71250.chunk.js.map",
+    "static/js/3.21ac6ea1.chunk.js": "/GK-quiz-app/static/js/3.21ac6ea1.chunk.js",
+    "static/js/3.21ac6ea1.chunk.js.map": "/GK-quiz-app/static/js/3.21ac6ea1.chunk.js.map",
+    "index.html": "/GK-quiz-app/index.html",
+    "static/css/main.e5282757.chunk.css.map": "/GK-quiz-app/static/css/main.e5282757.chunk.css.map",
+    "static/js/2.bfc71250.chunk.js.LICENSE.txt": "/GK-quiz-app/static/js/2.bfc71250.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/GK-quiz-app/static/media/background-image.904c4d49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ebe377.js",
+    "static/js/2.bfc71250.chunk.js",
+    "static/css/main.e5282757.chunk.css",
+    "static/js/main.1b78580f.chunk.js"
+  ]
+}
